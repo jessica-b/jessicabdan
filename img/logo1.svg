@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="Layer1" x="0px" y="0px" width="71px" height="80px" viewBox="0 0 71 80" xml:space="preserve" enable-background="new 0 0 71 80"><style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;}
+	.st2{filter:url(#AI_GaussianBlur_4); opacity:0.5}
+</style><filter id="AI_GaussianBlur_4"><feGaussianBlur stdDeviation="2"/></filter><path class="st2" d="M35 74.6L6 57.7V41h2v15.6l26 15.1V6.5l30 17.5v33.6L35 74.6zM36 10v61.6l26-15.1V25.2L36 10z"/><path class="st0" d="M34.5 7"/><path class="st0" d="M6.5 23.3"/><path class="st1" d="M34 73.2L5 56.3V40h2v15.2l26 15.1V5.1l30 17.5v33.6L34 73.2zM35 8.6v61.6l26-15.1V23.8L35 8.6z"/></svg>
